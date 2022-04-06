@@ -14,6 +14,7 @@
 
 ### Analysis
 
+- [NFTGO](https://nftgo.io/) : NFT 분석 플랫폼. Coniun보다 훨씬 개인 분석이 용이
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
 
 ## Contents
