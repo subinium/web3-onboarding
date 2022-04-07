@@ -10,8 +10,8 @@
 
 ### Marketplace
 
-- [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 플랫폼
-
+- [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스
+- [Magic Eden](https://magiceden.io/) : NFT 솔라나 기반 마켓플레이스
 ### Analysis
 
 - [NFTGO](https://nftgo.io/) : NFT 분석 플랫폼. Coniun보다 훨씬 개인 분석이 용이
