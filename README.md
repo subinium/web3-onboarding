@@ -19,6 +19,8 @@
 
 - [해시넷](http://wiki.hash.kr/) : 다양한 블록체인 관련 용어 정보 (wiki 스타일)
 - [Binance Acedemy](https://academy.binance.com/ko) : 바이낸스에서 제공하는 블록체인 글
+- [코인니스](https://coinness.live/) : 암호화폐 뉴스레터 (어플)
+  
 ## Contents
 
 ### Youtube(KR)
