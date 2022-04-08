@@ -14,6 +14,7 @@
 - [DappRadar](https://dappradar.com/) : DAPP 순위
 - [NFTGO](https://nftgo.io/) : NFT 분석 플랫폼. Coniun보다 훨씬 개인 분석이 용이
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
+- [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능 (레어값 계산 기능 추가)
 
 ## Wiki & Articles
 
