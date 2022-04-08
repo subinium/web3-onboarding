@@ -4,8 +4,9 @@
 
 ## Marketplace
 
-- [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스
-- [Magic Eden](https://magiceden.io/) : NFT 솔라나 기반 마켓플레이스
+- [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
+- [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
+- [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
   
 ## Analysis
 
@@ -22,7 +23,8 @@
 
 ### Youtube(KR)
 
-- [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 설명
+- [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의
+- [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의
 - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명에 적합 
 - [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개
 
