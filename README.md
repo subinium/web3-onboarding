@@ -14,6 +14,8 @@
 - [Magic Eden](https://magiceden.io/) : NFT 솔라나 기반 마켓플레이스
 ### Analysis
 
+- [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
+- [DappRadar](https://dappradar.com/) : DAPP 순위
 - [NFTGO](https://nftgo.io/) : NFT 분석 플랫폼. Coniun보다 훨씬 개인 분석이 용이
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
 
