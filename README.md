@@ -7,7 +7,10 @@
 - [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
 - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
 - [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
-  
+- [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
+- [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
+- [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
+
 ## Analysis
 
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
