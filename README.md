@@ -2,14 +2,21 @@
 
 블록체인과 NFT 등을 공부한 내용을 정리하는 레포입니다.
 
-## DAPPs
 
-### DeFi
+
+## DeFi
+
+### AMM & DEX
 
 - [UniSwap](https://uniswap.org/) : 이더리움과 ERC-20 토큰 간의 자동 교환 거래를 위한 프로토콜
 - [SushiSwap](https://www.sushi.com/) : 유니스왑 + 보상 시스템 개선
 - [PancakeSwap](https://pancakeswap.finance/) : 유니스왑과 유사 + BSC(바이낸스 스마트 체인)사용
 
+### Lending
+
+- [MakerDAO](https://makerdao.com/) : 암호화폐 대출
+
+## DAPPs
 ### P2E
 
 > 폰지사기 항상 주의할 것
@@ -18,7 +25,7 @@
 - [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
 - [Syltare](https://www.syltare.com/) : 멋사팀의 카드게임
 
-### Marketplace
+### NFT Marketplace
 
 - [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
 - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
@@ -30,6 +37,7 @@
 ## Analysis
 
 ### DAPPs
+
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
 - [DappRadar](https://dappradar.com/) : DAPP 순위
 
