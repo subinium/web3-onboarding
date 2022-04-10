@@ -1,6 +1,6 @@
-## Blockchain
+## Blockchain & NFT
 
-개인적으로 블록체인과 관련 시스템을 공부한 내용을 정리하는 레포입니다.
+블록체인과 NFT 등을 공부한 내용을 정리하는 레포입니다.
 
 ## Marketplace
 
@@ -13,12 +13,16 @@
 
 ## Analysis
 
+### DAPPs
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
 - [DappRadar](https://dappradar.com/) : DAPP 순위
+
+### NFT
+
 - [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
-- [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능
 - [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼
+- [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능
   
 ## Wiki & Articles
 
@@ -35,13 +39,14 @@
 - [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의
 - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용까지 다수
 - [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개
-- [눕미, NFT](https://www.youtube.com/c/%EB%88%95%EB%AF%B8%EB%88%84%EC%9B%8C%EC%84%9C%EB%B3%B4%EB%8A%94%EB%AF%B8%EC%88%A0/) : NFT 아트 트렌드 등 여러 정보 유튜버
+- [눕미, NFT](https://www.youtube.com/c/%EB%88%95%EB%AF%B8%EB%88%84%EC%9B%8C%EC%84%9C%EB%B3%B4%EB%8A%94%EB%AF%B8%EC%88%A0/) : NFT 아트 트렌드 등 여러 정보 소개 유튜버
 
 ### Books
 
 > 여기는 제가 읽은, 제가 읽을 책들 위주로 적어두겠습니다.
 
-- NFT 사용설명서
-- NFT 레볼루션
-- NFT 실체와 가치
-- 생활을 변화시키는 블록체인
+- [NFT 사용설명서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191904062&orderClick=LAG&Kc=)
+- [NFT 레볼루션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216603&orderClick=LAG&Kc=)
+- [NFT 실체와 가치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393212&orderClick=LAG&Kc=)
+- [생활을 변화시키는 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931461091&orderClick=LEa&Kc=)
+- [토크노믹스: 블록체인이 가져올 차세대 비즈니스 경제학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242070&orderClick=LEa&Kc=)
