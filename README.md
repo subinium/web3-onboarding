@@ -37,6 +37,8 @@
 ## 📱 DAPPs
 ### P2E(Play to Earn)
 
+> 너무 많아... 해봐야 더 감이 올 듯
+
 - [Splinterlands](https://splinterlands.com/) : 하스스톤 스타일 카드 게임
 - [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
 - [Syltare](https://www.syltare.com/) : 국내 멋쟁이사자처럼팀의 카드 게임
