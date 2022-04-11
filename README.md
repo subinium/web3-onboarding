@@ -24,23 +24,22 @@
 
 ### Stablecoin
 
-- [MakerDAO](https://makerdao.com/)
-- [Tether](https://tether.to/) 
+- [MakerDAO](https://makerdao.com/) : DAI가치로 균형을 이룬 탈중앙화 스테이블코인
+- [Terra](https://www.terra.money/) : 테라와 루나의 결합을 통한 탈중앙화 스테이블코인
+- [Tether](https://tether.to/) : 완벽한 DeFi는 아니었으나 좋은 시작 솔루션
 
-### Yiled Aggregator
+### Yiled Farm
 
 - [Yearn Finance](https://yearn.finance/)
 - [Beefy Finance](https://beefy.finance/)
 - [Autofarm](https://autofarm.network/)
 
 ## 📱 DAPPs
-### P2E
+### P2E(Play to Earn)
 
-> 폰지사기 항상 주의할 것
-
-- [Splinterlands](https://splinterlands.com/) : 하스스톤 카드 게임
+- [Splinterlands](https://splinterlands.com/) : 하스스톤 스타일 카드 게임
 - [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
-- [Syltare](https://www.syltare.com/) : 멋사팀의 카드게임
+- [Syltare](https://www.syltare.com/) : 국내 멋쟁이사자처럼팀의 카드 게임
 
 ### NFT Marketplace
 
@@ -71,13 +70,13 @@
 
 - [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼. 속도 및 UX가 좋음. 
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
-- [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼. 
+- [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼
 - [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능
 - [Flips](https://www.flips.finance/) : 심플한 대시보드 제공
 
 ## 📚 Contents
 
-### Wiki & Articles
+### Wiki & News
 
 - [해시넷](http://wiki.hash.kr/) : 다양한 블록체인 관련 용어 정보 (wiki 스타일)
 - [Binance Acedemy](https://academy.binance.com/ko) : 바이낸스에서 제공하는 블록체인101 (한글)
@@ -87,11 +86,12 @@
   
 ### Youtube(KR)
 
-- [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의
-- [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의
-- [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용까지 다수
-- [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개
+- [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의. 아무것도 모른다면 이것부터!
+- [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의. 심화내용을 알고 싶다면 추천!
+- [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용과 다양한 인터뷰. 기술/비즈니스/법/문화 등 꾸준하게 보길 추천!
+- [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개. 국내 동향을 파악하고 싶은 분들에게 추천.
 - [눕미, NFT](https://www.youtube.com/c/%EB%88%95%EB%AF%B8%EB%88%84%EC%9B%8C%EC%84%9C%EB%B3%B4%EB%8A%94%EB%AF%B8%EC%88%A0/) : NFT 아트 트렌드 등 여러 정보 소개 유튜버
+- [Decipher](https://www.youtube.com/channel/UCfKTPDjUvDsMuczqr8xaG4Q/) : 서울대 블록체인 학회. 아직 양이 많지는 않지만 꾸준하게 지켜보면 좋을 곳.
 
 ### Books
 
@@ -102,3 +102,17 @@
 - [NFT 실체와 가치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393212&orderClick=LAG&Kc=)
 - [생활을 변화시키는 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931461091&orderClick=LEa&Kc=)
 - [토크노믹스: 블록체인이 가져올 차세대 비즈니스 경제학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242070&orderClick=LEa&Kc=)
+
+### 빠른 찍먹러를 위한 모음
+
+- Youtube : NFT의 다양한 관점
+  - [[슈카월드] NFT, 현대판 봉이 김선달인가, 황금 디지털 자산인가](https://youtu.be/Cf957pa3gpg) : 믿고보는 슈카월드
+  - [[조승연의 탐구생활] 🎨 현대미술 vs 고전미술의 진짜 차이점? (ft.KIAF) | 아트테크, 그림, 미술사, NFT | MMM](https://youtu.be/QCUjX7tZBUM) : 조승연님과 미키김님의 예술을 바라보는 시각과 NFT
+  - [[셜록현준] 상상초월 가격의 NFT 그림, 정말 그만한 가치가 있을까? 유현준이 보는 NFT 예술](https://youtu.be/9z4rfZjEGWA) : 건축가 유현준님의 조금 더 냉정한 NFT에 대한 비판
+  - [[장동선의 궁금한 뇌] 여러 영상들](https://www.youtube.com/c/CuriousBrainLab/): NFT 관련 대표님들과 인터뷰, 그리고 장동선 박사님이 보는 NFT와 DAO들 골라서 보기
+  - [[김성회의 G식백과] 여러 영상들](https://www.youtube.com/channel/UCZ0bi2aVJngKLwFTU5g_fLQ) : 게이머 관점에서 바라보는 NFT 시장 (결론 : 게임이나 재미있게 만들어!)
+- Youtube : 블록체인 이론 or 프로그래밍
+  - [[KISDI 스피커] 블록체인 기술의 이해와 활용사례 / 김승주 교수 (고려대)](https://youtu.be/MDRF4PMWdsg) : 블록체인의 이론 기본. 믿고보는 김승주 교수님 발표
+  - [[조코딩] 하나에 130억? 누구나 쉽게 NFT 컬렉션 1000개 이상 만들고 판매하기](https://youtu.be/IEOsoUiT_30) : 조코딩님의 NFT 발행 프로그래밍 강의
+- Article 
+  - [거의 모든 디파이(DeFi; 탈중앙 금융)의 역사 시리즈](https://contents.premium.naver.com/big/highres/contents/220203121123665vl) : 빠르게 Defi의 흐름을 알기 위한 추천 자료
