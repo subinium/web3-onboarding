@@ -4,9 +4,13 @@
 
 
 
-## DeFi
+## 🏦 DeFi
+
+> Decentralized Finance
 
 ### AMM & DEX
+
+> Automated market maker & Decentralized exchange
 
 - [UniSwap](https://uniswap.org/) : 이더리움과 ERC-20 토큰 간의 자동 교환 거래를 위한 프로토콜
 - [SushiSwap](https://www.sushi.com/) : 유니스왑 + 보상 시스템 개선
@@ -16,7 +20,7 @@
 
 - [MakerDAO](https://makerdao.com/) : 암호화폐 대출
 
-## DAPPs
+## 📱 DAPPs
 ### P2E
 
 > 폰지사기 항상 주의할 것
@@ -34,7 +38,15 @@
 - [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
 - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
 
-## Analysis
+### Name Service
+
+> Domain Name Service의 확장판
+
+- [ENS](https://ens.domains/) : 이더리움 네임 서비스
+- [TNS](https://tns.money/) : 테라 네임 서비스
+- [KNS](https://klaytn.domains/) : 클레이튼 네임 서비스
+
+## 📊 Analysis
 
 ### DAPPs
 
@@ -48,7 +60,9 @@
 - [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼
 - [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능
   
-## Wiki & Articles
+## 📚 Contents
+
+### Wiki & Articles
 
 - [해시넷](http://wiki.hash.kr/) : 다양한 블록체인 관련 용어 정보 (wiki 스타일)
 - [Binance Acedemy](https://academy.binance.com/ko) : 바이낸스에서 제공하는 블록체인101 (한글)
@@ -56,8 +70,6 @@
 - [코인니스](https://coinness.live/) : 암호화폐 뉴스레터 (어플)
 - [코인데스크](https://www.coindeskkorea.com/) : 암호화폐 뉴스
   
-## Contents
-
 ### Youtube(KR)
 
 - [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의
