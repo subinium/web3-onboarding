@@ -15,10 +15,23 @@
 - [UniSwap](https://uniswap.org/) : 이더리움과 ERC-20 토큰 간의 자동 교환 거래를 위한 프로토콜
 - [SushiSwap](https://www.sushi.com/) : 유니스왑 + 보상 시스템 개선
 - [PancakeSwap](https://pancakeswap.finance/) : 유니스왑과 유사 + BSC(바이낸스 스마트 체인)사용
+- [Orca](https://www.orca.so/) : 솔라나 기반 DEX
 
 ### Lending
 
-- [MakerDAO](https://makerdao.com/) : 암호화폐 대출
+- [Compound](https://compound.finance/) : 암호화폐 대출. 거버넌스 토큰
+- [AAVE](https://aave.com/) : 이더리움 기반 대출 플랫폼
+
+### Stablecoin
+
+- [MakerDAO](https://makerdao.com/)
+- [Tether](https://tether.to/) 
+
+### Yiled Aggregator
+
+- [Yearn Finance](https://yearn.finance/)
+- [Beefy Finance](https://beefy.finance/)
+- [Autofarm](https://autofarm.network/)
 
 ## 📱 DAPPs
 ### P2E
@@ -37,6 +50,7 @@
 - [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
 - [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
 - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
+- [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
 
 ### Name Service
 
@@ -55,11 +69,12 @@
 
 ### NFT
 
-- [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼
+- [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼. 속도 및 UX가 좋음. 
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
-- [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼
+- [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼. 
 - [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능
-  
+- [Flips](https://www.flips.finance/) : 심플한 대시보드 제공
+
 ## 📚 Contents
 
 ### Wiki & Articles
