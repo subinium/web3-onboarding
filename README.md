@@ -1,8 +1,9 @@
 ## Blockchain
 
-블록체인과 NFT 등을 공부한 내용을 정리하는 레포입니다.
-
-
+- 블록체인과 NFT 등을 공부한 내용을 정리한 레포입니다.
+- 투자를 위한 내용이 아닌 블록체인 시스템을 중심으로 살펴보길 추천합니다.
+- 키워드 중심으로 공부하면 좋습니다.
+- 개인적인 블록체인 글은 [제 블로그](https://ansubin.com/)에 종종 작성하고 있습니다. (구독 가능)
 
 ## 🏦 DeFi
 
@@ -12,7 +13,7 @@
 
 > Automated market maker & Decentralized exchange
 
-- [UniSwap](https://uniswap.org/) : 이더리움과 ERC-20 토큰 간의 자동 교환 거래를 위한 프로토콜
+- [UniSwap](https://uniswap.org/) : 이더리움과 ERC20 토큰 간의 자동 교환 거래를 위한 프로토콜
 - [SushiSwap](https://www.sushi.com/) : 유니스왑 + 보상 시스템 개선
 - [PancakeSwap](https://pancakeswap.finance/) : 유니스왑과 유사 + BSC(바이낸스 스마트 체인)사용
 - [Orca](https://www.orca.so/) : 솔라나 기반 DEX
@@ -39,26 +40,34 @@
 - Hardware Wallet : 하드웨어 지갑
   - [디센트](https://dcentwallet.com/)
   - [렛져](http://www.ledgerkorea.co.kr/)
+- 일반적인 지갑들 : Opensea나 다수 사이트에서 경험하기 위한 기본
+  - [Metamask](https://metamask.io/) : 이더리움 지갑
+  - [Kaikas](https://medium.com/klaytn) : 클레이튼 지갑
+  - [Phantom](https://phantom.app/) : 솔라나 지갑
 
 ## 📱 DAPPs
 ### P2E(Play to Earn)
 
-> 너무 많아... 해봐야 더 감이 올 듯
+> 너무 많아서 대표적인 내용 하나씩 추가 예정
+> 국내 P2E는 아직까지는 논란이 많은 편. 참고해서 시도해볼 것.
 
-- [Splinterlands](https://splinterlands.com/) : 하스스톤 스타일 카드 게임
-- [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
-- [Syltare](https://www.syltare.com/) : 국내 멋쟁이사자처럼팀의 카드 게임
+- 해외
+  - [Splinterlands](https://splinterlands.com/) : 하스스톤 스타일 카드 게임
+  - [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
+- 국내
+  - [Syltare](https://www.syltare.com/) : 국내 멋쟁이사자처럼팀의 카드 게임
+  - [MTDZ](https://metatoydragonz.io/) : 국내 샌드박스게이밍팀 게임. 메타토이드래곤즈는 클레이튼 기반의 게임.
 
 ### NFT Marketplace
 
-- 무허가형 : 아무나 올릴 수 있음
+- 무허가형 : 아무나 올릴 수 있음. 대신 사기 다수
   - [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
   - [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
   - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
   - [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
-- 부분선별형 : 초대장
+- 부분선별형 : 초대장을 받아야 함. 비쌈
   - [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
-- 완전선별형 : 심사 과정을 거침
+- 완전선별형 : 심사 과정을 거침. 비쌈
   - [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
   - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
 
@@ -108,14 +117,17 @@
 
 > 여기는 제가 읽은, 제가 읽을 책들 위주로 적어두겠습니다.
 
+- NFT
 - [NFT 사용설명서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191904062&orderClick=LAG&Kc=)
 - [NFT 레볼루션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216603&orderClick=LAG&Kc=)
 - [NFT 실체와 가치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393212&orderClick=LAG&Kc=)
-- [생활을 변화시키는 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931461091&orderClick=LEa&Kc=)
-- [토크노믹스: 블록체인이 가져올 차세대 비즈니스 경제학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242070&orderClick=LEa&Kc=)
+- 블록체인
+  - [생활을 변화시키는 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931461091&orderClick=LEa&Kc=)
+  - [토크노믹스: 블록체인이 가져올 차세대 비즈니스 경제학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242070&orderClick=LEa&Kc=)
 
 ### 빠른 찍먹러를 위한 모음
 
+- [코인픽, 코인 백서 한글 3줄 요약](https://coinpick.com/coin_info) : 빠르게 코인들 장단점 파악에 용이
 - Youtube : NFT의 다양한 관점
   - [[슈카월드] NFT, 현대판 봉이 김선달인가, 황금 디지털 자산인가](https://youtu.be/Cf957pa3gpg) : 믿고보는 슈카월드
   - [[조승연의 탐구생활] 🎨 현대미술 vs 고전미술의 진짜 차이점? (ft.KIAF) | 아트테크, 그림, 미술사, NFT | MMM](https://youtu.be/QCUjX7tZBUM) : 조승연님과 미키김님의 예술을 바라보는 시각과 NFT
