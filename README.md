@@ -34,6 +34,12 @@
 - [Beefy Finance](https://beefy.finance/)
 - [Autofarm](https://autofarm.network/)
 
+### Wallet
+
+- Hardware Wallet : 하드웨어 지갑
+  - [디센트](https://dcentwallet.com/)
+  - [렛져](http://www.ledgerkorea.co.kr/)
+
 ## 📱 DAPPs
 ### P2E(Play to Earn)
 
@@ -45,13 +51,16 @@
 
 ### NFT Marketplace
 
-- [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
-- [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
-- [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
-- [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
-- [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
-- [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
-- [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
+- 무허가형 : 아무나 올릴 수 있음
+  - [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
+  - [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
+  - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
+  - [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
+- 부분선별형 : 초대장
+  - [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
+- 완전선별형 : 심사 과정을 거침
+  - [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
+  - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
 
 ### Name Service
 
@@ -68,7 +77,7 @@
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
 - [DappRadar](https://dappradar.com/) : DAPP 순위
 
-### NFT
+### NFT Portfolio
 
 - [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼. 속도 및 UX가 좋음. 
 - [Coniun](https://coniun.io/) : 기간 내 거래량 등 다양한 분석 플랫폼
