@@ -13,37 +13,37 @@
 
 > Automated market maker & Decentralized exchange
 
-- [UniSwap](https://uniswap.org/) : 이더리움과 ERC20 토큰 간의 자동 교환 거래를 위한 프로토콜
-- [SushiSwap](https://www.sushi.com/) : 유니스왑 + 보상 시스템 개선
-- [PancakeSwap](https://pancakeswap.finance/) : 유니스왑과 유사 + BSC(바이낸스 스마트 체인)사용
-- [Orca](https://www.orca.so/) : 솔라나 기반 DEX
+|logo|link|description|
+|------|---|---|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/1200px-Uniswap_Logo.svg.png?20210117065440" width=80px/> | [UniSwap](https://uniswap.org/) | 이더리움과 ERC20 토큰 간의 자동 교환 거래를 위한 프로토콜|
+|<img src="https://cryptologos.cc/logos/sushiswap-sushi-logo.png" width=80px/> |[SushiSwap](https://www.sushi.com/) | 유니스왑 + 보상 시스템 개선|
+|<img src="https://cryptologos.cc/logos/pancakeswap-cake-logo.png" width=80px/> |[PancakeSwap](https://pancakeswap.finance/) | 유니스왑과 유사 + BSC(바이낸스 스마트 체인)사용|
+|<img src="https://www.orca.so/static/media/logomark.1ef55f8f.svg" width=80px/> |[Orca](https://www.orca.so/) | 솔라나 기반 DEX|
+|<img src="https://cryptologos.cc/logos/curve-dao-token-crv-logo.png" width=80px/>|[Curve](https://curve.fi)| 스테이블코인 거래 DEX. 저렴한 수수료와 낮은 슬리피지로 스테이블 코인 거래
 
 ### Lending
 
-- [Compound](https://compound.finance/) : 암호화폐 대출. 거버넌스 토큰
-- [AAVE](https://aave.com/) : 이더리움 기반 대출 플랫폼
+|logo|link|description|
+|------|---|---|
+|<img src="https://cryptologos.cc/logos/compound-comp-logo.png" width=80px/> | [Compound](https://compound.finance/) | 암호화폐 대출. 거버넌스 토큰 |
+|<img src="https://cryptologos.cc/logos/aave-aave-logo.png" width=80px/> | [AAVE](https://aave.com/) | 이더리움 기반 대출 플랫폼
 
 ### Stablecoin
 
-- [MakerDAO](https://makerdao.com/) : DAI가치로 균형을 이룬 탈중앙화 스테이블코인
-- [Terra](https://www.terra.money/) : 테라와 루나의 결합을 통한 탈중앙화 스테이블코인
-- [Tether](https://tether.to/) : 완벽한 DeFi는 아니었으나 좋은 시작 솔루션
+|logo|link|description|
+|------|---|---|
+|<img src="https://cryptologos.cc/logos/maker-mkr-logo.png" width=80px/> | [MakerDAO](https://makerdao.com/) | DAI 가치로 균형을 이룬 탈중앙화 스테이
+|<img src="https://cryptologos.cc/logos/terra-luna-luna-logo.png" width=80px/> |[Terra](https://www.terra.money/) | 테라와 루나의 결합을 통한 탈중앙화 스테이블코인|
+|<img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width=80px/> | [Tether](https://tether.to/) | 완벽한 DeFi는 아니었으나 좋은 시작 솔루션
 
 ### Yiled Farm
 
-- [Yearn Finance](https://yearn.finance/)
-- [Beefy Finance](https://beefy.finance/)
-- [Autofarm](https://autofarm.network/)
+|logo|link|description|
+|------|---|---|
+|<img src="https://cryptologos.cc/logos/yearn-finance-yfi-logo.png" width=80px/> | [Yearn Finance](https://yearn.finance/)| |
+|<img src="https://cryptologos.cc/logos/beefy-finance-bifi-logo.png" width=80px/> |[Beefy Finance](https://beefy.finance/)||
+|<img src="https://avatars.githubusercontent.com/u/75677769" width=80px/> | [Autofarm](https://autofarm.network/)||
 
-### Wallet
-
-- Hardware Wallet : 하드웨어 지갑
-  - [디센트](https://dcentwallet.com/)
-  - [렛져](http://www.ledgerkorea.co.kr/)
-- 일반적인 지갑들 : Opensea나 다수 사이트에서 경험하기 위한 기본
-  - [Metamask](https://metamask.io/) : 이더리움 지갑
-  - [Kaikas](https://medium.com/klaytn) : 클레이튼 지갑
-  - [Phantom](https://phantom.app/) : 솔라나 지갑
 
 ## 📱 DAPPs
 ### P2E(Play to Earn)
@@ -79,6 +79,16 @@
 - [TNS](https://tns.money/) : 테라 네임 서비스
 - [KNS](https://klaytn.domains/) : 클레이튼 네임 서비스
 
+### Wallet
+
+- How Wallet : 크롬 익스텐션으로 사용할 수 있는 지갑
+  - [Metamask](https://metamask.io/) : 이더리움 지갑
+  - [Kaikas](https://medium.com/klaytn) : 클레이튼 지갑
+  - [Phantom](https://phantom.app/) : 솔라나 지갑
+- Cold Wallet : 하드웨어 지갑
+  - [디센트](https://dcentwallet.com/)
+  - [렛져](http://www.ledgerkorea.co.kr/)
+
 ## 📊 Analysis
 
 ### DAPPs
@@ -93,6 +103,7 @@
 - [NFT Bank](https://nftbank.ai/) : 국내 NFT 포토폴리오 플랫폼
 - [TraitSniper](https://www.traitsniper.com/) : Opensea에 Chrome Extension 추가 가능
 - [Flips](https://www.flips.finance/) : 심플한 대시보드 제공
+- [RaritySniper](https://raritysniper.com/) : NFT 희귀도 제공 플랫폼
 
 ## 📚 Contents
 
