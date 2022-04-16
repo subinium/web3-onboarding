@@ -1,4 +1,4 @@
-## Blockchain
+<h1 align="center"> ⛓️BLOCKCHAIN⛓️ </h1>
 
 - 블록체인과 NFT 등을 공부한 내용을 정리한 레포입니다.
 - 투자를 위한 내용이 아닌 블록체인 시스템을 중심으로 살펴보길 추천합니다.
@@ -7,7 +7,8 @@
 
 ## 🏦 DeFi
 
-> Decentralized Finance
+DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금융시스템의 분산화된 형태를 의미한다.
+거래, 대출, 보험 등 다양한 방식으로 탈중앙화된 금융이 있다.
 
 ### AMM & DEX
 
