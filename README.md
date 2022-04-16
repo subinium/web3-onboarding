@@ -121,14 +121,15 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 - 전문성과 이론
   - [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의. 아무것도 모른다면 이것부터!
   - [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의. 심화내용을 알고 싶다면 추천!
-  - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용과 다양한 인터뷰
-  - [비코모](https://www.youtube.com/channel/UCArHeXBBVHwvpqBWn2Q16uw) : 코인과 NFT 등 재미있는 주제에 대해 잘 설명해주심
 - 전체적인 트렌드
+  - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용과 다양한 인터뷰
   - [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개. 국내 동향을 파악하고 싶은 분들에게 추천.
+  - [비코모](https://www.youtube.com/channel/UCArHeXBBVHwvpqBWn2Q16uw) : 코인과 NFT 등 재미있는 주제에 대해 잘 설명해주심. 투자보다 이론과 장단점 등을 깔끔하게 설명.
   - [눕미, NFT](https://www.youtube.com/c/%EB%88%95%EB%AF%B8%EB%88%84%EC%9B%8C%EC%84%9C%EB%B3%B4%EB%8A%94%EB%AF%B8%EC%88%A0/) : NFT 아트 트렌드 등 여러 정보 소개 유튜버
 - 컨퍼런스
   - [Decipher](https://www.youtube.com/channel/UCfKTPDjUvDsMuczqr8xaG4Q/) : 서울대 블록체인 학회. 아직 양이 많지는 않지만 꾸준하게 지켜보면 좋을 곳.
   - [UDC](https://www.youtube.com/channel/UCI-KFpsHxzdSx-yo0Y-TLqw) : 업비트 개발자 컨퍼런스
+  - [UNOPND(언오픈드)-Hashed Studio](https://www.youtube.com/channel/UCfOmjCOTE6hEVMBryGanoig) : HASHED가 운영하는 Web3 기반 스타트업 인큐베이팅 회사
 
 ### Books
 
