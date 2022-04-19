@@ -121,6 +121,8 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 - 전문성과 이론
   - [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의. 아무것도 모른다면 이것부터!
   - [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의. 심화내용을 알고 싶다면 추천!
+  - [한화자산리서치](https://www.youtube.com/channel/UCEznrN8oroicBCrwjSyvCDA) : 디지털자산리서치 시리즈 영상 추천
+  - [nonce classic](https://www.youtube.com/c/%EC%BD%94%EC%9D%B8%EC%9E%AC%ED%85%8C%ED%81%AC%EC%8A%A4%EC%BF%A8CoinInvestingSchool) 
 - 전체적인 트렌드
   - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용과 다양한 인터뷰
   - [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개. 국내 동향을 파악하고 싶은 분들에게 추천.
@@ -136,9 +138,9 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 > 여기는 제가 읽은, 제가 읽을 책들 위주로 적어두겠습니다.
 
 - NFT
-- [NFT 사용설명서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191904062&orderClick=LAG&Kc=)
-- [NFT 레볼루션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216603&orderClick=LAG&Kc=)
-- [NFT 실체와 가치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393212&orderClick=LAG&Kc=)
+  - [NFT 사용설명서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191904062&orderClick=LAG&Kc=)
+  - [NFT 레볼루션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216603&orderClick=LAG&Kc=)
+  - [NFT 실체와 가치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158393212&orderClick=LAG&Kc=)
 - 블록체인
   - [생활을 변화시키는 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931461091&orderClick=LEa&Kc=)
   - [토크노믹스: 블록체인이 가져올 차세대 비즈니스 경제학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242070&orderClick=LEa&Kc=)
