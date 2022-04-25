@@ -66,11 +66,26 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
   - [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
   - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
   - [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
+  - [Coinbase NFT](https://nft.coinbase.com/) : 코인베이스 NFT, 최근 댓글 기능 등 SNS 요소 추가
 - 부분선별형 : 초대장을 받아야 함. 비쌈
   - [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
 - 완전선별형 : 심사 과정을 거침. 비쌈
   - [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
   - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
+- 교환
+  - [sudoswap](https://sudoswap.xyz/) : 토큰 거래 서비스
+
+### SNS
+
+- [GM](https://gm.xyz/) : Web3 지향 SNS
+
+### Music
+
+- [Royal.io](https://royal.io/) 
+- [Sound.xyz](https://www.sound.xyz/)
+- [Audius](https://audius.co/)
+- [Catalog](https://beta.catalog.works/)
+- [Arpeggi](https://www.arpeggi.io/)
 
 ### Name Service
 
