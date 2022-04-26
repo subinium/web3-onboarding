@@ -123,6 +123,10 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 
 ## 📚 Contents
 
+### Programming
+
+- [크립토좀비](https://cryptozombies.io/ko/) : 솔리디티 스마트컨트랙트 개발 공부
+
 ### Wiki & News
 
 - [해시넷](http://wiki.hash.kr/) : 다양한 블록체인 관련 용어 정보 (wiki 스타일)
