@@ -74,6 +74,7 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
   - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
 - 교환
   - [sudoswap](https://sudoswap.xyz/) : 토큰 거래 서비스
+  - [Gem.xyz](https://www.gem.xyz/) : NFT 마켓 바닥가 쓸기 서비스
 
 ### SNS
 
