@@ -107,7 +107,7 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
   - [디센트](https://dcentwallet.com/)
   - [렛져](http://www.ledgerkorea.co.kr/)
 
-## 📊 Analysis
+## 📊 Analysis & Ranking
 
 ### DAPPs
 
@@ -159,8 +159,9 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 - 전문적인 이론
   - [노마드코더 : 암호화폐101](https://www.youtube.com/playlist?list=PL7jH19IHhOLOJfXeVqjtiawzNQLxOgTdq) : 노마드코더의 암호화폐 이론 강의. 아무것도 모른다면 이것부터!
   - [재윤TV](https://www.youtube.com/c/jaeyuntv) : 슈퍼블록 대표 재윤님의 전문적인 블록체인 이론 강의. 심화내용을 알고 싶다면 추천!
-  - [한화자산리서치](https://www.youtube.com/channel/UCEznrN8oroicBCrwjSyvCDA) : 디지털자산리서치 시리즈 영상 추천
+  - [nonce](https://www.youtube.com/c/noncecommunity) : 믿고 보는 논스
   - [논스클래식 nonce classic](https://www.youtube.com/c/%EC%BD%94%EC%9D%B8%EC%9E%AC%ED%85%8C%ED%81%AC%EC%8A%A4%EC%BF%A8CoinInvestingSchool) : 이론적인 내용을 쉽게 설명해줌. 최신 주제까지 커버. (강추)
+  - [한화자산리서치](https://www.youtube.com/channel/UCEznrN8oroicBCrwjSyvCDA) : 디지털자산리서치 시리즈 영상 추천
 - 전체적인 트렌드
   - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용과 다양한 인터뷰
   - [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개. 국내 동향을 파악하고 싶은 분들에게 추천.
@@ -198,3 +199,4 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
   - [[조코딩] 하나에 130억? 누구나 쉽게 NFT 컬렉션 1000개 이상 만들고 판매하기](https://youtu.be/IEOsoUiT_30) : 조코딩님의 NFT 발행 프로그래밍 강의
 - Article 
   - [거의 모든 디파이(DeFi; 탈중앙 금융)의 역사 시리즈](https://contents.premium.naver.com/big/highres/contents/220203121123665vl) : 빠르게 Defi의 흐름을 알기 위한 추천 자료
+  - [디파이(DeFi) 스택](https://multicoin.capital/ko/2020/11/24/the-defi-stack/) : DeFi 구조를 이해하기에 좋음. 조금 아는 찍먹러에게 추천
