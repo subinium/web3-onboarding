@@ -48,7 +48,7 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 
 
 ## 📱 DAPPs
-### P2E(Play to Earn)
+### P2E(Play to Earn) + @
 
 > 너무 많아서 대표적인 내용 하나씩 추가 예정
 > 국내 P2E는 아직까지는 논란이 많은 편. 참고해서 시도해볼 것.
@@ -56,6 +56,7 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 - 해외
   - [Splinterlands](https://splinterlands.com/) : 하스스톤 스타일 카드 게임
   - [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
+  - [STEPN](https://stepn.com/) : 걸으면 돈 주는 Move2Earn
 - 국내
   - [Syltare](https://www.syltare.com/) : 국내 멋쟁이사자처럼팀의 카드 게임
   - [MTDZ](https://metatoydragonz.io/) : 국내 샌드박스게이밍팀 게임. 메타토이드래곤즈는 클레이튼 기반의 게임.
