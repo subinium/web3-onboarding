@@ -154,7 +154,8 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 - [Bybit Learn](https://learn.bybit.com/) : 바이비트에서 제공하는 블록체인101 (영어)
 - [코인니스](https://coinness.live/) : 암호화폐 뉴스레터 (어플)
 - [코인데스크](https://www.coindeskkorea.com/) : 암호화폐 뉴스
-  
+- [Xangle](https://xangle.io/) : 블록체인 정보공시 플랫폼. 쟁글 오리지널 등 좋은 컨텐츠가 상당히 많음.
+
 ### Youtube(KR)
 
 - 전문적인 이론
