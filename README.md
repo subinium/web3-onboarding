@@ -4,6 +4,7 @@
 - 투자를 위한 내용이 아닌 블록체인 시스템을 중심으로 살펴보길 추천합니다.
 - 키워드 중심으로 공부하면 좋습니다.
 - 개인적인 블록체인 글은 [제 블로그](https://ansubin.com/)에 종종 작성하고 있습니다. (구독 가능)
+- 조만간 어떻게 큰 그림을 공부할 수 있을지도 블로그에 업로드할 예정입니다.
 
 ## 🏦 DeFi
 
@@ -75,9 +76,10 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 - 완전선별형 : 심사 과정을 거침. 비쌈
   - [SuperRare](https://superrare.com/) : 큐레이팅형 NFT 거래 플랫폼. 유명 작가가 많고 승인이 어려움
   - [NiftyGateway](https://niftygateway.com/) : NFT아트 거래 플랫폼. 승인이 어려움
-- 교환
-  - [sudoswap](https://sudoswap.xyz/) : 토큰 거래 서비스
-  - [Gem.xyz](https://www.gem.xyz/) : NFT 마켓 바닥가 쓸기 서비스
+- 교환 및 구매
+  - [sudoswap](https://sudoswap.xyz/) : 토큰 거래 서비스, p2p로 교환하는 NFT
+  - [NFTTRADER](https://www.nfttrader.io/) : 토큰 거래 서비스, p2p로 교환하는 NFT
+  - [Gem.xyz](https://www.gem.xyz/) : NFT 마켓 바닥가 쓸기 서비스. NFT 계의 다나와
 
 ### SNS
 
