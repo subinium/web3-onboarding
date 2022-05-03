@@ -82,6 +82,7 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 ### SNS
 
 - [GM](https://gm.xyz/) : Web3 지향 SNS
+- [Mirror](https://mirror.xyz/) : 이더리움 기반 퍼블리싱 플랫폼 (블로그)
 
 ### Music
 
