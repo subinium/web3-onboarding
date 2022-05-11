@@ -46,6 +46,7 @@
   - [비코모](https://www.youtube.com/channel/UCArHeXBBVHwvpqBWn2Q16uw) : 코인과 NFT 등 재미있는 주제에 대해 잘 설명해주심. 투자보다 이론과 장단점 등을 깔끔하게 설명.
   - [케이웨일즈](https://www.youtube.com/channel/UCoINyaroqbJ654r7Z-_A5GQ) : NFT 정보 소개. 메타버스포럼과 비슷한 느낌.
   - [눕미, NFT](https://www.youtube.com/c/%EB%88%95%EB%AF%B8%EB%88%84%EC%9B%8C%EC%84%9C%EB%B3%B4%EB%8A%94%EB%AF%B8%EC%88%A0/) : NFT 아트 트렌드 등 여러 정보 소개 유튜버
+  - [크립토 누나](https://www.youtube.com/channel/UCtB__NUV5aGgffHQIoMf5bw)
 - 컨퍼런스
   - [Decipher](https://www.youtube.com/channel/UCfKTPDjUvDsMuczqr8xaG4Q/) : 서울대 블록체인 학회. 아직 양이 많지는 않지만 꾸준하게 지켜보면 좋을 곳.
   - [UDC](https://www.youtube.com/channel/UCI-KFpsHxzdSx-yo0Y-TLqw) : 업비트 개발자 컨퍼런스
