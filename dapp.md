@@ -1,8 +1,10 @@
 ## DAPP
 
-사례 중심을 원한다면 핫한 앱들을 위주로 살펴볼 것!
+- 사례 중심을 원한다면 핫한 앱들을 위주로 살펴볼 것!
 
 ### Rank & Analysis
+
+기본 앱에 대한 
 
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
 - [DappRadar](https://dappradar.com/) : DAPP 순위
@@ -15,8 +17,9 @@
   - [Axie Infinity](https://axieinfinity.com/) : 3대3 턴제 대전 JRPG. 수집형 모바일 게임
   - [Syltare](https://www.syltare.com/) : 국내 멋쟁이사자처럼팀의 카드 게임
   - [MTDZ](https://metatoydragonz.io/) : 국내 샌드박스게이밍팀 게임. 메타토이드래곤즈는 클레이튼 기반의 게임.
-  - [STEPN](https://stepn.com/) : 걸으면 돈 주는 Move2Earn.
-- Metaverse
+- M2E : 최근 핫한 걸으면 토큰을 주는 시스템 (폰지 여부에 대해 고민해보기)
+  - [STEPN](https://stepn.com/) : 걸으면 돈 주는 Move2Earn. 
+- Metaverse : 관련하여 토큰도 살펴볼 것.
   - [The Sandbox](https://www.sandbox.game/en/) : 메타버스 랜드
   - [Decentraland](https://decentraland.org/) : 메타버스 랜드
 
@@ -35,7 +38,7 @@
 
 ### Name Service
 
-> Domain Name Service의 확장판
+Domain Name Service의 확장판
 
 - [ENS](https://ens.domains/) : 이더리움 네임 서비스
 - [TNS](https://tns.money/) : 테라 네임 서비스

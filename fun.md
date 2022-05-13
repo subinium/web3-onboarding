@@ -1,6 +1,6 @@
 ## 찍먹러를 위한 내용 모음
 
-- [코인픽, 코인 백서 한글 3줄 요약](https://coinpick.com/coin_info) : 빠르게 코인들 장단점 파악에 용이
+
 - Youtube : NFT의 다양한 관점
   - [[슈카월드] NFT, 현대판 봉이 김선달인가, 황금 디지털 자산인가](https://youtu.be/Cf957pa3gpg) : 믿고보는 슈카월드
   - [[조승연의 탐구생활] 🎨 현대미술 vs 고전미술의 진짜 차이점? (ft.KIAF) | 아트테크, 그림, 미술사, NFT | MMM](https://youtu.be/QCUjX7tZBUM) : 조승연님과 미키김님의 예술을 바라보는 시각과 NFT
@@ -13,3 +13,5 @@
 - Article 
   - [거의 모든 디파이(DeFi; 탈중앙 금융)의 역사 시리즈](https://contents.premium.naver.com/big/highres/contents/220203121123665vl) : 빠르게 Defi의 흐름을 알기 위한 추천 자료
   - [디파이(DeFi) 스택](https://multicoin.capital/ko/2020/11/24/the-defi-stack/) : DeFi 구조를 이해하기에 좋음. 조금 아는 찍먹러에게 추천
+- 그 외
+  - [코인픽, 코인 백서 한글 3줄 요약](https://coinpick.com/coin_info) : 빠르게 코인들 장단점 파악에 용이

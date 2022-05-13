@@ -12,4 +12,5 @@
 - [🖼️ NFT](./nft.md) : NFT의 다양한 마켓과 분석
 - [📚 Resource](./resource.md) : 공부하고 싶은 사람을 위한 자료 모음집
 - [😆 Fun](./fun.md) : 찍먹러를 위한 자료 모음집
+- [🌐 Mainet](./network.md) : 기본적으로 알면 좋은 네트워크 순서도 (TBD)
 

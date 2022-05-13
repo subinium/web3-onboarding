@@ -1,11 +1,14 @@
 ## DeFi
 
 DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금융시스템의 분산화된 형태를 의미한다.
-거래, 대출, 보험 등 다양한 방식으로 탈중앙화된 금융이 있다.
+
+서비스가 정말 많기 때문에 대표적인 내용부터 공부하는 것을 추천.
 
 ### DEX
 
 > Automated market maker & Decentralized exchange
+
+- 다른 시스템도 마찬가지지만 유동성 확보를 위해 어떤 시스템을 사용하는지 살펴볼 것
 
 |logo|link|description|
 |------|---|---|
@@ -18,6 +21,8 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 
 ### Lending
 
+- 담보되는 암호화폐 청산을 어떤 방식으로 하는지 공부
+
 |logo|link|description|
 |------|---|---|
 |<img src="https://cryptologos.cc/logos/compound-comp-logo.png" width=40px/> | [Compound](https://compound.finance/) | 암호화폐 대출. 거버넌스 토큰 |
@@ -25,18 +30,28 @@ DeFi란 탈중앙화 금융(Decentralized Finance)의 약자로, 기존의 금�
 
 ### Stablecoin
 
+총 4가지 유형의 스테이블 코인으로 공부할 것.
+
+- 법정화폐 담보
+- 암호화폐 담보
+- 시뇨리지 기반
+- 알고리즘 기반
+
 |logo|link|description|
 |------|---|---|
+|<img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width=40px/> | [Tether](https://tether.to/) | 실제 1USD와 1USDT의 폐깅.
 |<img src="https://cryptologos.cc/logos/maker-mkr-logo.png" width=40px/> | [MakerDAO](https://makerdao.com/) | DAI 가치로 균형을 이룬 탈중앙화 스테이
-|<img src="https://cryptologos.cc/logos/terra-luna-luna-logo.png" width=40px/> |[Terra](https://www.terra.money/) | 테라와 루나의 결합을 통한 탈중앙화 스테이블코인|
-|<img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width=40px/> | [Tether](https://tether.to/) | 완벽한 DeFi는 아니었으나 좋은 시작 솔루션
+|<img src="https://cryptologos.cc/logos/terra-luna-luna-logo.png" width=40px/> |[Terra](https://www.terra.money/) | ~~테라와 루나의 결합을 통한 탈중앙화 스테이블코인~~ 공부용으로는 한 번 살펴보는 것 추천|
+
 
 ### Yiled Farm
+
+- 다른 시스템에서 어떻게 이자를 더 많이 받을 수 있는지 공부하기.
 
 |logo|link|description|
 |------|---|---|
 |<img src="https://cryptologos.cc/logos/yearn-finance-yfi-logo.png" width=40px/> | [Yearn Finance](https://yearn.finance/)| |
 |<img src="https://cryptologos.cc/logos/beefy-finance-bifi-logo.png" width=40px/> |[Beefy Finance](https://beefy.finance/)||
 |<img src="https://avatars.githubusercontent.com/u/75677769" width=40px/> | [Autofarm](https://autofarm.network/)||
-|<img src="https://avatars.githubusercontent.com/u/67821563?s=280&v=4" width=40px/> |[Anchor](https://www.anchorprotocol.com/)| Terra 기반 예금
+|<img src="https://avatars.githubusercontent.com/u/67821563?s=280&v=4" width=40px/> |[Anchor](https://www.anchorprotocol.com/)| ~~Terra 기반 예금~~ 이었음.
 

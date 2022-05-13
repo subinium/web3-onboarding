@@ -22,6 +22,7 @@
   - [LearnWeb3DAO](https://learnweb3.io/)
 - Facebook
   - [블파스-블록체인 파헤치는 스터디](https://www.facebook.com/groups/306343657825554)
+- Telegram 채널
 
 ### Wiki & News
 
@@ -63,3 +64,7 @@
 - 블록체인
   - [생활을 변화시키는 블록체인](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931461091&orderClick=LEa&Kc=)
   - [토크노믹스: 블록체인이 가져올 차세대 비즈니스 경제학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242070&orderClick=LEa&Kc=)
+
+### Twitter 
+
+팔로우하면 도움될 트위터 계정들 (TBD)

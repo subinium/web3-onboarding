@@ -18,7 +18,7 @@
   - [NFTTRADER](https://www.nfttrader.io/) : 토큰 거래 서비스, p2p로 교환하는 NFT
   - [Gem.xyz](https://www.gem.xyz/) : NFT 마켓 바닥가 쓸기 서비스. NFT 계의 다나와
 - 그 외
-  - [Fractional](https://fractional.art/) : NFT 부분 구매
+  - [Fractional](https://fractional.art/) : NFT 부분 구매 플랫폼
 
 ### NFT Portfolio
 
