@@ -10,7 +10,9 @@
 - [🏦 DeFi](./defi.md) : 반드시 살펴볼 Defi 중심
 - [📱 DAPP](./dapp.md) : 사례가 궁금한 분들이라면?
 - [🖼️ NFT](./nft.md) : NFT의 다양한 마켓과 분석
+- [🖥️ Develop](./develop.md) : 개발자를 위한 라이브러리 모음
 - [📚 Resource](./resource.md) : 공부하고 싶은 사람을 위한 자료 모음집
 - [😆 Fun](./fun.md) : 찍먹러를 위한 자료 모음집
+- [👥 DAO](./dao.md) : 다오 툴 모음
 - [🌐 Mainet](./network.md) : 기본적으로 알면 좋은 네트워크 순서도 (TBD)
 
