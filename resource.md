@@ -23,6 +23,7 @@
 - Facebook
   - [블파스-블록체인 파헤치는 스터디](https://www.facebook.com/groups/306343657825554)
 - Telegram 채널
+  - [안수빈의 Web3](https://t.me/web3subin)
 
 ### Wiki & News
 
@@ -32,6 +33,7 @@
 - [코인니스](https://coinness.live/) : 암호화폐 뉴스레터 (어플)
 - [코인데스크](https://www.coindeskkorea.com/) : 암호화폐 뉴스
 - [Xangle](https://xangle.io/) : 블록체인 정보공시 플랫폼. 쟁글 오리지널 등 좋은 컨텐츠가 상당히 많음.
+- [HolyCrypto](https://holycrypto.news/) : 좋은 번역글
 
 ### Youtube(KR)
 
@@ -43,6 +45,7 @@
   - [한화자산리서치](https://www.youtube.com/channel/UCEznrN8oroicBCrwjSyvCDA) : 디지털자산리서치 시리즈 영상 추천
 - 전체적인 트렌드
   - [티타임즈TV](https://www.youtube.com/channel/UCelFN6fJ6OY6v8pbc_SLiXA) : NFT, 블록체인 트렌드 등에 대해 대중을 위한 설명부터 전문적인 내용과 다양한 인터뷰
+  - [알고란](https://www.youtube.com/c/%EC%95%8C%EA%B3%A0%EB%9E%80)
   - [메타버스포럼](https://www.youtube.com/c/metaverseforum) : 국내 다수 메타버스 및 NFT 프로젝트 소개. 국내 동향을 파악하고 싶은 분들에게 추천.
   - [비코모](https://www.youtube.com/channel/UCArHeXBBVHwvpqBWn2Q16uw) : 코인과 NFT 등 재미있는 주제에 대해 잘 설명해주심. 투자보다 이론과 장단점 등을 깔끔하게 설명.
   - [케이웨일즈](https://www.youtube.com/channel/UCoINyaroqbJ654r7Z-_A5GQ) : NFT 정보 소개. 메타버스포럼과 비슷한 느낌.

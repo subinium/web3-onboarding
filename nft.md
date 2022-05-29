@@ -20,6 +20,11 @@
 - 그 외
   - [Fractional](https://fractional.art/) : NFT 부분 구매 플랫폼
 
+### NFT Finance
+
+- Landing
+  - [nftfi](https://www.nftfi.com/)
+
 ### NFT Portfolio
 
 - [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼. 속도 및 UX가 좋음. 
