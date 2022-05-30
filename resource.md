@@ -26,14 +26,18 @@
   - [안수빈의 Web3](https://t.me/web3subin)
 
 ### Wiki & News
-
-- [해시넷](http://wiki.hash.kr/) : 다양한 블록체인 관련 용어 정보 (wiki 스타일)
-- [Binance Acedemy](https://academy.binance.com/ko) : 바이낸스에서 제공하는 블록체인101 (한글)
-- [Bybit Learn](https://learn.bybit.com/) : 바이비트에서 제공하는 블록체인101 (영어)
-- [코인니스](https://coinness.live/) : 암호화폐 뉴스레터 (어플)
-- [코인데스크](https://www.coindeskkorea.com/) : 암호화폐 뉴스
-- [Xangle](https://xangle.io/) : 블록체인 정보공시 플랫폼. 쟁글 오리지널 등 좋은 컨텐츠가 상당히 많음.
-- [HolyCrypto](https://holycrypto.news/) : 좋은 번역글
+- 해외
+  - [Messari](https://messari.io/) 
+  - [a16z](https://future.a16z.com/)
+  - [Nansen](https://www.nansen.ai/)
+  - [Bybit Learn](https://learn.bybit.com/) : 바이비트에서 제공하는 블록체인101 (영어)
+- 국내
+  - [해시넷](http://wiki.hash.kr/) : 다양한 블록체인 관련 용어 정보 (wiki 스타일)
+  - [Binance Acedemy](https://academy.binance.com/ko) : 바이낸스에서 제공하는 블록체인101 (한글)
+  - [코인니스](https://coinness.live/) : 암호화폐 뉴스레터 (어플)
+  - [코인데스크](https://www.coindeskkorea.com/) : 암호화폐 뉴스
+  - [Xangle](https://xangle.io/) : 블록체인 정보공시 플랫폼. 쟁글 오리지널 등 좋은 컨텐츠가 상당히 많음.
+  - [HolyCrypto](https://holycrypto.news/) : 좋은 번역글
 
 ### Youtube(KR)
 
