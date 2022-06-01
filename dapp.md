@@ -27,6 +27,12 @@
 
 - [GM](https://gm.xyz/) : Web3 지향 SNS
 - [Mirror](https://mirror.xyz/) : 이더리움 기반 퍼블리싱 플랫폼 (블로그)
+- [CyberConnect](https://cyberconnect.me/) : 크립토 지갑 기반 소셜 그래프
+- [Monaco Planet](https://monaconft.io/) : Web3 SNS
+
+### Certification
+- [POAP](https://poap.xyz/) : 출석 인증 프로토콜. 출석 시 NFT 발행 및 콜렉션 제작
+- [NOOX](https://noox.world/) : POAP과 유사
 
 ### Music
 

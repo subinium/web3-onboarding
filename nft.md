@@ -6,8 +6,8 @@
   - [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
   - [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
   - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
-  - [OnePlanet](https://www.oneplanetnft.io/) : 테라 NFT 마켓플레이스
   - [Coinbase NFT](https://nft.coinbase.com/) : 코인베이스 NFT, 최근 댓글 기능 등 SNS 요소 추가
+  - [OnePlanet](https://www.oneplanetnft.io/) : ~~테라 NFT 마켓플레이스~~
 - 부분선별형 : 초대장을 받아야 함. 비쌈
   - [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
 - 완전선별형 : 심사 과정을 거침. 비쌈
@@ -23,7 +23,7 @@
 ### NFT Finance
 
 - Landing
-  - [nftfi](https://www.nftfi.com/)
+  - [nftfi](https://www.nftfi.com/) : NFT 기반 대출 플랫폼
 
 ### NFT Portfolio
 
