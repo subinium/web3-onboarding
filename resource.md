@@ -26,6 +26,7 @@
   - [안수빈의 Web3](https://t.me/web3subin)
 
 ### Wiki & News
+
 - 해외
   - [Messari](https://messari.io/) 
   - [a16z](https://future.a16z.com/)
@@ -38,6 +39,11 @@
   - [코인데스크](https://www.coindeskkorea.com/) : 암호화폐 뉴스
   - [Xangle](https://xangle.io/) : 블록체인 정보공시 플랫폼. 쟁글 오리지널 등 좋은 컨텐츠가 상당히 많음.
   - [HolyCrypto](https://holycrypto.news/) : 좋은 번역글
+- 국내 블로그
+  - [HASHED 미디엄](https://medium.com/hashed-kr)
+  - [언오픈드 미디엄](https://unopnd.medium.com/)
+  - [DSRV 미디엄](https://medium.com/dsrv)
+  - [디사이퍼 미디엄](https://medium.com/decipher-media)
 
 ### Youtube(KR)
 
