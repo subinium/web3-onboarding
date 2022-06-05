@@ -4,6 +4,7 @@
 
 - 무허가형 : 아무나 올릴 수 있음. 대신 사기 다수
   - [Opensea](https://opensea.io/) : NFT 최대 마켓플래이스 (이더리움, 솔라나, 클레이튼 가능)
+  - [X2Y2](https://x2y2.io/) : 수수료가 0.5%로 매우 저렴한 마켓플레이스. 개인적으로는 오픈씨보다 100배 나은 사용성.
   - [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
   - [Magic Eden](https://magiceden.io/) : 솔라나 NFT 마켓플레이스
   - [Coinbase NFT](https://nft.coinbase.com/) : 코인베이스 NFT, 최근 댓글 기능 등 SNS 요소 추가
