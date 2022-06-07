@@ -26,6 +26,10 @@
 - Landing
   - [nftfi](https://www.nftfi.com/) : NFT 기반 대출 플랫폼
 
+### NFT 제작
+
+- [Pinata](https://www.pinata.cloud/) : IPFS에 쉽게 올릴 수 있는 NFT 제작 서비스
+
 ### NFT Portfolio
 
 - [NFTGO](https://nftgo.io/) : NFT 포토폴리오 플랫폼. 속도 및 UX가 좋음. 
