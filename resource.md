@@ -24,6 +24,10 @@
   - [블파스-블록체인 파헤치는 스터디](https://www.facebook.com/groups/306343657825554)
 - Telegram 채널
   - [안수빈의 Web3](https://t.me/web3subin)
+  - [전종현의 인사이트](https://t.me/chunjonghyun)
+  - [낭만적 인본주의자](https://t.me/Romantic_Humanist)
+  - [돌비콩의 코인정복](https://t.me/dolbikong)
+  
 
 ### Wiki & News
 
