@@ -74,6 +74,8 @@
 
 > 여기는 제가 읽은, 제가 읽을 책들 위주로 적어두겠습니다.
 
+- DAPP 개발
+  - [Blockchain in Action](http://www.yes24.com/Product/Goods/102700225)
 - NFT
   - [NFT 사용설명서](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191904062&orderClick=LAG&Kc=)
   - [NFT 레볼루션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216603&orderClick=LAG&Kc=)
