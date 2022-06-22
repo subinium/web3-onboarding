@@ -18,17 +18,23 @@
   - [sudoswap](https://sudoswap.xyz/) : 토큰 거래 서비스, p2p로 교환하는 NFT
   - [NFTTRADER](https://www.nfttrader.io/) : 토큰 거래 서비스, p2p로 교환하는 NFT
   - [Gem.xyz](https://www.gem.xyz/) : NFT 마켓 바닥가 쓸기 서비스. NFT 계의 다나와
-- 그 외
-  - [Fractional](https://fractional.art/) : NFT 부분 구매 플랫폼
+- 분할 구매
+  - [Fractional](https://fractional.art/) : NFT 분할 구매 플랫폼
+  - [NFTx](https://nftx.io/)
+  - [NFT20](https://nft20.io/) : NFT Liquidity Protocol
 
 ### NFT Finance
 
-- Landing
+- Rent & Landing
   - [nftfi](https://www.nftfi.com/) : NFT 기반 대출 플랫폼
+  - [reNFT](https://www.renft.io/)
+  - [IQ Protocol](https://iq.space/)
+  - [Double](https://double.one/)
 
 ### NFT 제작
 
 - [Pinata](https://www.pinata.cloud/) : IPFS에 쉽게 올릴 수 있는 NFT 제작 서비스
+- [Omnuum](https://omnuum.io/) : NFT 빌더 플랫폼
 
 ### NFT Portfolio
 
