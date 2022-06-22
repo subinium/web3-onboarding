@@ -4,7 +4,7 @@
 
 ### Rank & Analysis
 
-기본 앱에 대한 
+> 기본 앱에 대한 통계 및 분석 제공
 
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
 - [DappRadar](https://dappradar.com/) : DAPP 순위

@@ -1,6 +1,4 @@
-## DAO
-
-[Messari의 DAO Tools 정리](https://messari.io/governor/tools)를 보시면 약 400개 정도의 툴이 있습니다.
+## DAO Tooling
 
 ### Finance & Treasury
 
@@ -15,3 +13,9 @@
 ### Governance
 
 - [HAUS](https://daohaus.club/): DAO 빌더 툴
+
+## DAOs
+
+## Reference
+
+- [[Messari] DAO Tools](https://messari.io/governor/tools)
