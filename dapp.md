@@ -8,7 +8,6 @@
 
 - [State of the DAPPS](https://www.stateofthedapps.com/) : DAPP 순위
 - [DappRadar](https://dappradar.com/) : DAPP 순위
-- [Dune](https://dune.com/home) : 온체인 데이터 분석 공유 플랫폼
 
 ### P2E & Metaverse
 

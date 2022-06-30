@@ -7,7 +7,6 @@
   - [Rarible](https://rarible.com/) : 2인자였으나 현재는 거의 사용량이 저조.
   - [X2Y2](https://x2y2.io/) : 수수료가 0.5%로 매우 저렴한 마켓플레이스. 개인적으로는 오픈씨보다 100배 나은 사용성.
   - [LooksRare](https://looksrare.org/) : NFT 마켓플레이스
-  
 - 부분선별형 : 초대장을 받아야 함. 비쌈
   - [Foundation](https://foundation.app/) : NFT아트 거래 플랫폼 + 초대장이 있어야 발행 가능
 - 완전선별형 : 심사 과정을 거침. 비쌈
